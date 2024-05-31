@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+#form
+{
+	box-shadow:0px 0px 5px lightgray;
+}
